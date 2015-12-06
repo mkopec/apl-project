@@ -103,8 +103,8 @@ footer {
 footer > p {
     position: fixed;
     z-index: -1;
-
     bottom: 100px;
+
     padding: 30px;
 
     color: #FFF;
