@@ -100,11 +100,10 @@ footer {
     background-color: rgb(43, 159, 28);;
 }
 
-footer > p {
+footer > .footer_content {
     position: fixed;
     z-index: -1;
+    bottom: 0;
 
-    padding: 30px;
-
-    color: #FFF;
+    height: 150px;
 }
