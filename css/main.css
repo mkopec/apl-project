@@ -5,8 +5,6 @@ body {
 }
 
 .wrapper {
-    position: relative;
-
     width: 1000px;
     margin: 0 auto;
     margin-bottom: 200px;
