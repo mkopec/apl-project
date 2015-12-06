@@ -91,6 +91,8 @@ footer {
 }
 
 footer > p {
+    position: fixed;
+    overflow: hidden;
     color: #FFF;
     padding: 30px;
 }
