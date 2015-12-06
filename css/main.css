@@ -6,6 +6,8 @@ body {
     width: 1000px;
     margin: 0 auto;
     margin-bottom: 200px;
+    z-index: 2;
+    background-color: #FFF;
 }
 
 .header {
@@ -72,8 +74,7 @@ body {
 }
 
 .content {
-    z-index: 2;
-    background-color: #FFF;
+
     padding: 20px 30px;
 }
 
