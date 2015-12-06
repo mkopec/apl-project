@@ -1,6 +1,4 @@
 body {
-    background-color: #FFF;
-    z-index: 2;
     font-family: Cantarell, sans-serif;
 }
 
@@ -74,6 +72,8 @@ body {
 }
 
 .content {
+    z-index: 2;
+    background-color: #FFF;
     padding: 20px 30px;
 }
 
