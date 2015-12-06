@@ -3,8 +3,10 @@ body {
 }
 
 .curtain {
-    width: 100%;
     z-index: 2;
+
+    width: 100%;
+
     background-color: #FFF;
     box-shadow: 0 15px 30px #222;
 }
@@ -79,7 +81,6 @@ body {
 }
 
 .content {
-
     padding: 20px 30px;
 }
 
@@ -100,11 +101,11 @@ footer {
     bottom: 0;
     left: 0;
 
-    background-color: rgb(107, 107, 107);
-
     height: 200px;
+
+    background-color: rgb(107, 107, 107);
 }
 
 .footer_content {
-    z-index: inherit;
+    margin: 50px auto;
 }
