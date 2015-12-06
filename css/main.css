@@ -2,12 +2,16 @@ body {
     font-family: Cantarell, sans-serif;
 }
 
+.curtain {
+    width: 100%;
+    z-index: 2;
+    background-color: #FFF;
+}
+
 .wrapper {
     width: 1000px;
     margin: 0 auto;
     margin-bottom: 200px;
-    z-index: 2;
-    background-color: #FFF;
 }
 
 .header {
