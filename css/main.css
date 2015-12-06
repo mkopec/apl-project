@@ -107,5 +107,9 @@ footer {
 }
 
 .footer_content {
-    margin: 50px auto;
+    margin: 50px 0;
+
+    text-align: center;
+
+    color: #FFF;
 }
