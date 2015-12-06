@@ -110,9 +110,9 @@ footer {
     display: block;
 
     margin: 0 auto;
-
+    height: 200px;
     text-align: center;
-
+    vertical-align: middle;
     color: #FFF;
 }
 
