@@ -114,8 +114,8 @@ footer {
     color: #FFF;
 }
 
-.footer_content > p {
-    clear: both;
+.footer_content > a {
+    float: left;
 
-    margin: 5px;
+    margin: 20px;
 }
