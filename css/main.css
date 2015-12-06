@@ -59,13 +59,12 @@ body {
 
     font-size: 16px;
     line-height: 60px;
-    overflow: hidden;
 }
 
 .navbar_item:hover {
     text-decoration: underline;
 
-    /*border-radius: 5px;*/
+    border-radius: 5px;
     background-color: rgb(43, 159, 28);
 }
 
