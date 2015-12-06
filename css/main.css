@@ -107,17 +107,17 @@ footer {
 }
 
 .footer_content {
-    display: block;
-
-    margin: 0 auto;
     height: 200px;
+
     text-align: center;
     vertical-align: middle;
+
     color: #FFF;
+
+    line-height: 200px;
 }
 
 .footer_content > a {
-    display: block;
     float: left;
 
     margin: 20px;
