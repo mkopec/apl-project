@@ -54,8 +54,6 @@ body {
     height: 60px;
     padding: 0 30px;
 
-    transition: background-color 0.2s ease;
-    transition: text-decoration 0.2s ease;
     text-align: center;
     text-decoration: none;
 
