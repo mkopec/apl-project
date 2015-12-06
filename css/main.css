@@ -15,8 +15,10 @@ body {
 
 .header > img {
     float: left;
+
     height: 180px;
     margin: 10px;
+
     border-radius: 50%;
 }
 
@@ -73,7 +75,9 @@ body {
 }
 
 .content > h2 {
-    text-align: center;
     margin: 10px;
+
+    text-align: center;
+
     font-size: 2.5em;
 }
