@@ -1,4 +1,6 @@
 body {
+    background-color: $FFF;
+
     font-family: Cantarell, sans-serif;
 }
 
@@ -36,6 +38,7 @@ body {
 
     border-radius: 5px;
     background-color: rgb(48, 186, 31);
+    box-shadow: 3px 3px 2px #888;
 }
 
 .sticky {
@@ -52,7 +55,6 @@ body {
     padding: 0 30px;
 
     transition: background-color 0.2s ease;
-    transition: color 0.2s ease;
     transition: text-decoration 0.2s ease;
     text-align: center;
     text-decoration: none;
@@ -66,8 +68,7 @@ body {
 .navbar_item:hover {
     text-decoration: underline;
 
-    color: rgb(48, 186, 31);
-    background-color: #FFF;
+    background-color: rgb(43, 159, 28);
 }
 
 .content {
