@@ -1,6 +1,4 @@
 body {
-    background-color: $FFF;
-
     font-family: Cantarell, sans-serif;
 }
 
@@ -65,8 +63,8 @@ body {
 .navbar_item:hover {
     text-decoration: underline;
 
-    background-color: rgb(43, 159, 28);
     border-radius: 5px;
+    background-color: rgb(43, 159, 28);
 }
 
 .content {
