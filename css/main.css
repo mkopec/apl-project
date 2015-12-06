@@ -101,7 +101,7 @@ footer {
 }
 
 footer > p {
-    position: static;
+    position: fixed;
     z-index: -1;
 
     padding: 30px;
