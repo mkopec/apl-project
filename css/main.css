@@ -99,13 +99,3 @@ footer {
 
     background-color: rgb(43, 159, 28);;
 }
-
-footer > p {
-    position: fixed;
-    z-index: -1;
-    bottom: 100px;
-
-    padding: 30px;
-
-    color: #FFF;
-}
