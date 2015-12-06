@@ -1,7 +1,7 @@
 $(document).ready(function() {
     $(document).scroll(function() {
         var yOffset = window.pageYOffset;
-        var navbarPosition = $('.header').offset().top + $('.header').height();
+        var navbarPosition = $('.header').height();
 
         if (yOffset >= navbarPosition - 5) {
             $('.navbar').addClass('sticky');
