@@ -113,3 +113,7 @@ footer {
 
     color: #FFF;
 }
+
+.footer_content > p {
+    clear: both;
+}
