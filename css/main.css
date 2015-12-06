@@ -6,7 +6,7 @@ body {
     width: 100%;
     z-index: 2;
     background-color: #FFF;
-    box-shadow: 0 10px 6px #666;
+    box-shadow: 0 15px 30px #222;
 }
 
 .wrapper {
@@ -100,7 +100,7 @@ footer {
     bottom: 0;
     left: 0;
 
-    background-color: rgb(113, 189, 104);
+    background-color: rgb(107, 107, 107);
 
     height: 200px;
 }
