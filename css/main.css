@@ -105,6 +105,6 @@ footer {
     height: 200px;
 }
 
-footer > p {
+.footer_content {
     z-index: inherit;
 }
