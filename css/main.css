@@ -89,3 +89,8 @@ footer {
     height: 150px;
     background-color: rgb(43, 159, 28);
 }
+
+footer > p {
+    color: #FFF;
+    padding: 30px;
+}
