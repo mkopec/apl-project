@@ -1,4 +1,6 @@
 body {
+    background-color: rgb(107, 107, 107);
+
     font-family: Cantarell, sans-serif;
 }
 
@@ -114,5 +116,6 @@ footer {
 
 .footer_content > p {
     clear: both;
+
     margin: 5px;
 }
