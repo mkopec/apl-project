@@ -6,7 +6,7 @@ body {
     width: 100%;
     z-index: 2;
     background-color: #FFF;
-    box-shadow: 6px 6px 3px #888;
+    box-shadow: 6px 6px 6px #DDD;
 }
 
 .wrapper {
