@@ -30,6 +30,8 @@ body {
 
     height: 180px;
     margin: 10px;
+
+    border-radius: 50%;
 }
 
 .header > h1 {
