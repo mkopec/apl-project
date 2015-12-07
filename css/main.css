@@ -110,20 +110,19 @@ footer {
 
 .footer_content {
     height: 200px;
-    margin: auto auto;
+    margin: 0 auto;
 
     text-align: center;
     vertical-align: middle;
 
     color: #FFF;
 
-    line-height: 64px;
+    line-height: 200px;
 }
 
 .footer_content > a {
     margin: 0 20px;
-
-    vertical-align: middle;
+    display: inline-block;
     font-size: 64px;
     line-height: 64px;
     text-decoration: none;
