@@ -121,7 +121,8 @@ footer {
 }
 
 .footer_content > a {
-    margin: 20px;
+    height: 64px;
+    margin: 20px 0;
 
     vertical-align: middle;
 }
