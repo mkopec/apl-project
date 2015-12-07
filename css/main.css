@@ -121,9 +121,12 @@ footer {
 }
 
 .footer_content > a {
-    margin: 68px 20px;
     display: inline-block;
+
+    margin: 68px 20px;
+
+    text-decoration: none;
+
     font-size: 64px;
     line-height: 64px;
-    text-decoration: none;
 }
