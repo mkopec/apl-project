@@ -117,12 +117,13 @@ footer {
 
     color: #FFF;
 
-    line-height: 200px;
+    line-height: 64px;
 }
 
 .footer_content > a {
-    height: 64px;
     margin: 0 20px;
 
     vertical-align: middle;
+    font-size: 64px;
+    line-height: 64px;
 }
