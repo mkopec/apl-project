@@ -120,4 +120,6 @@ footer {
 
 .footer_content > a {
     margin: 20px;
+
+    vertical-align: middle;
 }
