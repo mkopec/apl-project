@@ -134,3 +134,7 @@ footer {
     font-size: 64px;
     line-height: 64px;
 }
+
+.footer_content > a {
+    opacity: 0.8;
+}
