@@ -4,6 +4,10 @@ body {
     font-family: Cantarell, sans-serif;
 }
 
+a:active {
+    border: none;
+}
+
 .curtain {
     z-index: 2;
 
