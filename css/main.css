@@ -135,6 +135,6 @@ footer {
     line-height: 64px;
 }
 
-.footer_content > a {
+.footer_content > a:hover {
     opacity: 0.8;
 }
