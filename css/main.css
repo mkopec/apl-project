@@ -4,8 +4,8 @@ body {
     font-family: Cantarell, sans-serif;
 }
 
-a:active {
-    border: none;
+a:active, a:hover, a:focus {
+    outline: 0;
 }
 
 .curtain {
